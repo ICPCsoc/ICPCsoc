@@ -1,4 +1,14 @@
-## Hi there 👋
+<div align="center">
+
+  <h1 style="font-family: 'Arial Black', sans-serif; font-size: 3.2em; font-weight: bold; color: #4DFFFF; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);">
+    NAM NGUYEN
+  </h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=08F7E4&background=FFF63900&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+NAM+NGUYEN+%F0%9F%91%8B;AI+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;AI+Researcher+%F0%9F%A4%96;Casual+Academic+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Advanced+Computer+Science+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93" alt="Typing SVG" /></a>
+
+  <br><br>
+
+</div>
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 <!--
 **ICPCsoc/ICPCsoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
